@@ -33,7 +33,3 @@ The workflow involves form steps, validations, and blockchain-specific formats l
 │   └── Blockchain_Test_Cases_Detailed.xlsx
 │
 └── Part2_AutomationProject/
-    ├── testcases/
-    │   ├── test_signup_login.js
-    │   ├── test_onboard_existing_blockchain.js
-    │   └── test_create_private_blockchain.js
